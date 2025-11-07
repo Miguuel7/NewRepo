@@ -1,2 +1,1 @@
-console.log("Olá Mundo!");
-alert("Meu site");
+console.log("ola mundo");
